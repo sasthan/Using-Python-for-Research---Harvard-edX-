@@ -2,6 +2,7 @@
 https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/info
 
 Course taken: March - April 2017
+
 PH526x: Using Python For Research - Course Syllabus
 
 Course Instructor
